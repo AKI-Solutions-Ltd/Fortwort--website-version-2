@@ -189,11 +189,11 @@ transition: 0.2s;
     margin-top: -50px;
   }
   .bg-dark .container{
-    background-color:darkgrey !important;
+    /* background-color:darkgrey !important; */
     margin-top: 0;
   }
   .collapse .navbar-nav li{
-    background-color: red !important;
+    /* background-color: red !important; */
   }
 }
 @media (max-width: 900px) {
