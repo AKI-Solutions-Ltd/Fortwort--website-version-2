@@ -86,10 +86,10 @@ margin-top: -80px;
   color:red;
 }
 .ftco-services .bg-primary{
-  background-color: blue !important;
+  background-color: rgb(36, 36, 216) !important;
 }
 .ftco-services .bg-darken {
-  background-color: red !important;
+  background-color: rgb(218, 20, 20) !important;
 }
 .ftco-section>.mt-5>.pl-3{
   font-size: 500px !important;
