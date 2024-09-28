@@ -315,6 +315,11 @@ body>.bg-top{
     background-color: red;
 
   }
+  .row .col-md-12{
+    margin-top: 100px;
+  }
+
+
   /* .navbar-collapse .navbar-nav .nav-item {
     background-color: blue !important;
     display: none;
