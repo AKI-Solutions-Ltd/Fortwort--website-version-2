@@ -124,19 +124,14 @@ margin-top: -80px;
  .nav-item {
   margin-top: 20px;
   list-style-type: none !important;
-  /* background-color: blue; */
+
 }
 .col-md-7 .offer-list li{
   color: black ;
   list-style-type:none;
   font-size: 25px;
 }
-/* .col-md-7 .offer-list li::before {
-  content: '';
-  color: red;
-  list-style-type: disc;
-  
-} */
+
 .gallery-more { 
   background-color: blue;
   border-radius:100px;
@@ -147,9 +142,7 @@ margin-top: -80px;
   font-size: 20px;
   color: white !important;
 }
-/* .gallery-btn>.gallery-more a:hover{
-  
-} */
+
 .gallery-btn .btn:hover{
 color: rgb(126, 119, 116);
 height: 55px;
