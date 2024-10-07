@@ -351,6 +351,9 @@ font-size: 25px;
   margin-top: 3px;
  font-size: 13px; 
 }
+body{
+  overflow-x: hidden !important;
+}
 }
 
 hr {
