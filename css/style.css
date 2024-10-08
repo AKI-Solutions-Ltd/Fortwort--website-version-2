@@ -334,12 +334,28 @@ font-size: 25px;
   .col-md-4 .navbar-brand{
     display: none;
   }
+  .bg-top .top-container{
+    background-color: rgb(36, 36, 216); 
+    height: 70px;
+  }
+  
   .home-slider .slider-item{
     background: url(../images/f-about.png) !important;
   }
-};
+  .text-email .span{
+    display: none;
+  }
+}
   
 @media(max-width:480px){
+  .text-email .icon .icon-paper-plane, .text-email .text{
+    display: none !important;
+    background-color: red;
+  }
+  .bg-top .top-container{
+    background-color: rgb(36, 36, 216); 
+    height: 70px;
+  }
  .home-slider .slider-item{
     background: url(../images/f-about.png) !important;
   }
@@ -351,8 +367,8 @@ font-size: 25px;
    display: none;
   }
   .col-md-4 img{
-    width: 7em; 
-    height:7em;
+    width: 11em; 
+    height:11em;
     margin-left: -25px;
     margin-top: 35px;
   }
@@ -361,7 +377,7 @@ font-size: 25px;
    padding: 15px 0px 15px 0px;
    }
    .col-md .mb-0{
-    margin-top: 15px;
+    margin-top: 55px;
     background-color: red;
 
   }
@@ -391,8 +407,6 @@ font-size: 25px;
 body{
   overflow-x: hidden !important;
 }
-}
-
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
