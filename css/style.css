@@ -407,6 +407,9 @@ font-size: 25px;
 body{
   overflow-x: hidden !important;
 }
+
+}
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
